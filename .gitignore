@@ -1,0 +1,8 @@
+# Kafka broker data (local runtime state)
+volumes/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
